@@ -80,6 +80,12 @@ h4 {
 article {
     border: 1px solid var(--light-grey);
     padding: 0.5em;
+    transition-duration: 200ms;
+}
+
+article:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 15px var(--dark-grey);
 }
 
 article img {
