@@ -79,7 +79,6 @@ h4 {
 /* article */
 article {
     border: 1px solid var(--light-grey);
-    width: 30%;
     padding: 0.5em;
 }
 
